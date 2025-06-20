@@ -28,6 +28,9 @@ It's a simple, static dashboard layout. I used Tailwind CSS to style everything 
 
 Since I'm using the Tailwind CSS CDN, you don't need any special build steps or node modules. Just open the HTML file directly!
 
+**Better yet checkout using this live deployemnt on gh-pages**
+[It is live](https://mushfiqplabon.github.io/dashB-tail-phi/)
+
 ## What I Learned (so far!)
 
 * How to quickly style HTML elements using Tailwind's utility classes.
