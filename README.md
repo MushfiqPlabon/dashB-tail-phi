@@ -39,6 +39,6 @@ Since I'm using the Tailwind CSS CDN, you don't need any special build steps or 
 Feel free to suggest improvements or tell me if anything looks weird! I'm here to learn!
 
 **Connect with me:**
-[Your GitHub Profile Link](https://github.com/MushfiqPlabon)
+[GitHub Profile Link](https://github.com/MushfiqPlabon)
 
 ---
