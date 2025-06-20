@@ -22,7 +22,7 @@ It's a simple, static dashboard layout. I used Tailwind CSS to style everything 
 
 1.  **Clone this repo:**
     ```bash
-    git clone [https://github.com/MushfiqPlabon/dashB-tail-phi.git](https://github.com/MushfiqPlabon/dashB-tail-phi.git)
+    git clone https://github.com/MushfiqPlabon/dashB-tail-phi.git
     ```
 2.  **Open the `index.html` file** in your web browser. That's it!
 
